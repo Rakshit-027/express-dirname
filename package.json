@@ -1,0 +1,28 @@
+{
+  "name": "express-dirname",
+  "version": "1.0.0",
+  "description": "A utility to access __dirname in Express.js for CommonJS and ES Modules",
+  "main": "index.js",
+  "module": "index.mjs",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "express",
+    "dirname",
+    "node",
+    "esm",
+    "commonjs"
+  ],
+  "author": "Rakshit Waghmare <rakshitwaghmare27@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/express-dirname"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/express-dirname/issues"
+  },
+  "homepage": "https://github.com/yourusername/express-dirname#readme"
+}

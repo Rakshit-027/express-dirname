@@ -1,0 +1,1 @@
+export declare function getDirname(metaUrl: string): string;
