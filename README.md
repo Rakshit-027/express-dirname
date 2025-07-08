@@ -112,8 +112,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Issues
 
-Found a bug or have a feature request? Please open an issue on the [GitHub Issues page](https://github.com/yourusername/express-dirname/issues).
+Found a bug or have a feature request? Please open an issue on the [GitHub Issues page](https://github.com/Rakshit-027/express-dirname/issues).
 
 ## Author
 
-Created by [Your Name](https://github.com/yourusername).
+Created by [Rakshit Waghmare](https://github.com/Rakshit-027).
